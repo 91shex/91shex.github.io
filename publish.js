@@ -33,16 +33,16 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    '91shex@gmail.com'
 ];
 
 var urls=[
 	'iukkzdsf.cc/', 
 	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+    // 'gunskjtnt.com/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://edasmjfm.cc/";
 
 var newestUrls = [];
 
@@ -51,8 +51,9 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91shex.pages.dev',
 	'https://91shex.github.io/',
+	'https://91shex.pages.dev',
+
 ];
 var foreverUrls = [
 	  '91shehub.net',
