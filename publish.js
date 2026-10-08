@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'tclnvpldh.cc',
+	'gdoamdzie.cc',
 	'dtvjwbxr.cc',
-	'koaefjyul.com',
+	'tclnvpldh.cc',
 ];                                                                                                                  
 
 var JumpPage="https://ukvgwyyvm.cc";
